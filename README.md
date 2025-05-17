@@ -4,6 +4,7 @@
 
 ### A full-stack developer with hands-on expierence in building responsive and user-friendly websites.
 
+[![Arogoat's GitHub stats](https://github-readme-stats.vercel.app/api?username=arogoat)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 🛠️ Languages and Tools
