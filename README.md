@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arkadiusz Kuska</h1>
-<h3 align="center">Full-stack developer with experience in responsive and user-friendly applications.</h3>
+<h3 align="center">Full-stack developer with experience in responsive and user-friendly websites.</h3>
 
 ---
 
