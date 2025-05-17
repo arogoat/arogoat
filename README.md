@@ -5,10 +5,10 @@
 ### A full-stack developer with hands-on expierence in building responsive and user-friendly websites.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=arogoat&dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=arogoat" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arogoat&layout=compact&langs_count=8&card_width=320&dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arogoat&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 
