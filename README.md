@@ -24,10 +24,9 @@
 ---
 
 ### 🚀 My Recent Projects:
-- 🔗 [**Project A**](https://github.com/piyushmalhotra/project-a): A modern tool built with Python and Flask.
-
----
+- 🔗 [**🏠 Student Renting Map**](https://github.com/arogoat/StudentRentingMap.git): An interactive web map that helps students find affordable apartments in major Polish cities.
 
 
----
+
+
 
