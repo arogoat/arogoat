@@ -17,13 +17,13 @@
 ### 📊 GitHub Stats:
 
 <div align="center">
-  <table>
+  <table  >
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=arogoat&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" width="420"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=arogoat&show_icons=true&locale=en" alt="GitHub Stats" width="420"/>
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arogoat&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" width="320"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arogoat&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="320"/>
       </td>
     </tr>
   </table>
