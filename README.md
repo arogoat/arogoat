@@ -21,6 +21,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arogoat&layout=compact&theme=tokyonight" alt="Top Languages" width="320"/>
 </div>
 
+---
+
 ### 🚀 My Recent Projects:
 - 🔗 [**Project A**](https://github.com/piyushmalhotra/project-a): A modern tool built with Python and Flask.
 
@@ -29,4 +31,3 @@
 
 ---
 
-<p align="center">⭐️ From [Piyush Malhotra](https://github.com/piyushmalhotra)</p>
