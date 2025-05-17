@@ -4,9 +4,12 @@
 
 ### A full-stack developer with hands-on expierence in building responsive and user-friendly websites.
 
-[![Arogoat's GitHub stats](https://github-readme-stats.vercel.app/api?username=arogoat)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arogoat&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=arogoat&dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arogoat&layout=compact&langs_count=8&card_width=320&dark" />
+</a>
 
 
 ## 🛠️ Languages and Tools
