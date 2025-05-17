@@ -16,8 +16,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arogoat&layout=compact" width="400"/><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=arogoat&show_icons=true&locale=en" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arogoat&layout=compact" width="320"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=arogoat&show_icons=true&locale=en" width="420"/>
 </p>
 
 ---
