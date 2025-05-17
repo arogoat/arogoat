@@ -3,7 +3,7 @@
 
 ---
 
-<h3>🛠️ Languages and Tools:</h3>
+### 🛠️ Languages and Tools:
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
@@ -14,19 +14,13 @@
 
 ---
 
-### 📊 GitHub Stats:
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arogoat&show_icons=true&locale=en" alt="GitHub Stats" width="420"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arogoat&layout=compact" alt="Top Languages" width="320"/>
-</div>
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arogoat&show_icons=true&locale=en" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arogoat&layout=compact" width="300"/>
+</p>
 
 ---
 
-### 🚀 My Recent Projects:
+### 🚀 My Recent Projects
 - 🔗 [**🏠 Student Renting Map**](https://github.com/arogoat/StudentRentingMap.git): An interactive web map that helps students find affordable apartments in major Polish cities.
-
-
-
-
-
