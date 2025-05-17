@@ -15,9 +15,9 @@
 ---
 
 ### 📊 GitHub Stats:
-<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=arogoat&show_icons=true&locale=en&layout=compact" alt="arogoat" /></p>
+<p><img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=arogoat&show_icons=true&locale=en&layout=compact" alt="arogoat" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=arogoat&show_icons=true&locale=en" alt="arogoat" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arogoat&show_icons=true&locale=en" alt="arogoat" /></p>
 ---
 
 ### 🚀 My Recent Projects:
